@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_project/scenes/screenshot_system_example.unity
+    path: Assets/ScreenshotSystem/scenes/screenshot_system_example.unity
     guid: 6fc051835a71040f5ba5845582685009
   m_configObjects: {}
